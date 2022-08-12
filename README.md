@@ -1,4 +1,4 @@
-# arduino-python-joystic-turtle
+# Arduino-Python-Joystic-Turtle
 조이스틱
 
 https://hyunsun99.tistory.com/73
